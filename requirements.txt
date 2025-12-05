@@ -2,3 +2,4 @@ streamlit
 textblob
 nltk
 deep_translator
+cloudpickle
