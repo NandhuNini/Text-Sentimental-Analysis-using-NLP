@@ -2,4 +2,7 @@ streamlit
 textblob
 nltk
 deep_translator
-cloudpickle
+cloudpickle==2.2.1
+scikit-learn==1.3.2
+pandas
+
